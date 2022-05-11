@@ -2,7 +2,7 @@
 
 <h2> Projects:</h2>
 
-- Coming Soon!
+- [Project Template](https://github.com/JonathanEBerry/ProjectTemplate)
   
 <h2> Certifications:</h2>
 
